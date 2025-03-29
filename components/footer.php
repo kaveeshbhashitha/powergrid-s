@@ -6,8 +6,9 @@
             <span class="sitename">PowerGrid Solution</span>
           </a>
           <div class="footer-contact pt-3">
-            <p>Powergrid Solution, UBLC</p>
-            <p>University of Moratuwa, Katubadda</p>
+            <p>Powergrid Solution</p>
+            <p>No:62, Samagi Mawatha, </p>
+            <p>Mampe, Piliyandala. 10300</p>
             <p class="mt-3"><strong>Phone:</strong> <span>+94 71 2437010</span></p>
             <p><strong>Email:</strong> <span>hasithawd@powergrid.lk</span></p>
           </div>
