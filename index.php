@@ -192,10 +192,9 @@
 
           <div class="col-lg-6">
             <div class="info-wrap">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.7920910557677!2d79.89829207403011!3d6.795132919949147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae245416b7f34b5%3A0x7bd32721ab02560e!2sUniversity%20of%20Moratuwa!5e0!3m2!1sen!2slk!4v1718425082642!5m2!1sen!2slk" width="100%" height="300px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3961.669125670864!2d79.93204399999999!3d6.810040999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNDgnMzYuMiJOIDc5wrA1NSc1NS40IkU!5e0!3m2!1sen!2slk!4v1743263180484!5m2!1sen!2slk" width="100%" height="300px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
           </div>
-
           <div class="col-lg-6">
               <iframe src="contact.html" frameborder="0" style="height:100%; width:100%; overflow:hidden;" scrolling="no"></iframe>
 
