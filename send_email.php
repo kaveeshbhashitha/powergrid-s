@@ -39,7 +39,7 @@ if (isset($_POST["send"])) {
         "
         <script>
             alert('Message sent successfully..!');
-            document.location.href = 'index.php';
+            document.location.href = 'contact.html';
         </script>
         ";
     } catch (Exception $e) {
@@ -47,7 +47,7 @@ if (isset($_POST["send"])) {
         "
         <script>
             alert('Message not sent successfully..!' $e);
-            document.location.href = 'index.php';
+            document.location.href = 'contact.html';
         </script>
         ";
     }

@@ -34,7 +34,7 @@
         </div>
       </div>
 
-    </section><!-- /Hero Section -->
+    </section><!-- /Hero Section  -->
 
     <!-- Featured Services Section -->
     <section id="featured-services" class="featured-services section">
@@ -197,31 +197,7 @@
           </div>
 
           <div class="col-lg-6">
-            <form action="./send_email.php" method="post" class="php-email-form">
-              <div class="row gy-4">
-
-                  <div class="col-md-6">
-                      <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required autocomplete="off">
-                  </div>
-
-                  <div class="col-md-6">
-                      <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required autocomplete="off">
-                  </div>
-
-                  <div class="col-md-12">
-                      <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required autocomplete="off">
-                  </div>
-
-                  <div class="col-md-12">
-                      <textarea class="form-control" name="message" id="message" rows="4" required> </textarea>
-                  </div>
-
-                  <div class="col-md-12 text-center">
-                      <button type="submit" name="send" class="btn btn-primary">Send Message</button>
-                  </div>
-
-              </div>
-          </form>
+              <iframe src="contact.html" frameborder="0" style="height:100%; width:100%; overflow:hidden;" scrolling="no"></iframe>
 
           </div><!-- End Contact Form -->
 
