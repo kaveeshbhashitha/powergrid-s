@@ -9,11 +9,12 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Home</a></li>
+          <li><a href="./index.php" class="active">Home</a></li>
+          <li><a href="./about.php">About</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#team">Team</a></li>
-          <li><a href="#blogs">Blogs</a></li>
+          <li><a href="./blogs.php">Blogs</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>

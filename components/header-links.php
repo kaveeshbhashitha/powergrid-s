@@ -4,10 +4,6 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 
-<!-- Favicons -->
-<link href="assets/img/WhatsApp Image 2025-01-04 at 12.21.20.jpeg" rel="icon">
-<link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com" rel="preconnect">
 <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>

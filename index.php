@@ -5,6 +5,7 @@
     <?php 
         include('./components/header-links.php'); 
     ?>
+    <link href="./assets/img/logo-pg.jpeg" rel="icon">
 </head>
 
 <body class="index-page">
