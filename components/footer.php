@@ -30,8 +30,8 @@
           <div class="social-links d-flex">
             <a href="https://maps.app.goo.gl/bH7krnu4dDEM3iQV9"><i class="bi bi-map"></i></a>
             <a href="https://web.facebook.com/profile.php?id=100087342554901"><i class="bi bi-facebook"></i></a>
-            <a href="https://www.linkedin.com/company/90523164/admin/feed/posts/"><i class="bi bi-at"></i></a>
-            <a href="mailto:hasithawd@powergrid.lk"><i class="bi bi-linkedin"></i></a>
+            <a href="mailto:hasithawd@powergrid.lk"><i class="bi bi-at"></i></a>
+            <a href="https://www.linkedin.com/company/90523164/admin/feed/posts/"><i class="bi bi-linkedin"></i></a>
           </div>
         </div>
 

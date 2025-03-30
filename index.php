@@ -24,8 +24,10 @@
             <h1>Elegant and Sustainable Power Solutions</h1>
             <p>We deliver innovative, eco-friendly energy solutions that combine efficiency with sustainability for a greener future.</p>
             <div class="d-flex">
-              <a href="#about" class="btn-get-started">Get Started</a>
-              <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+              <a href="https://www.linkedin.com/company/power-grid-solutions/posts/?feedView=all" class="btn-get-started">Get Explored</a>
+              <a href="https://www.facebook.com/share/v/12LtaTHzL92/" target="_blank" class="btn-watch-video d-flex align-items-center">
+                  <i class="bi bi-play-circle"></i><span>Watch Video</span>
+              </a>
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="100">
@@ -47,7 +49,7 @@
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-activity icon"></i></div>
               <h4><a href="" class="stretched-link">Expert Consultants</a></h4>
-              <p>Our seasoned professionals provide expert guidance to optimize your business processes and drive success</p>
+              <p>Our seasoned professionals provide expert guidance to optimize your Energy processes and drive success</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -55,7 +57,7 @@
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
               <h4><a href="" class="stretched-link">Standards Compliance</a></h4>
-              <p>We ensure your organization meets industry regulations and international standards with precision</p>
+              <p>We ensure your organization meets industry regulations IESL and international standards ISO 9001 with precision</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -84,7 +86,7 @@
     
     <!-- Testimonials Section -->
     <?php 
-        include('./components/testimonials.php');
+        include('./components/projects.php');
     ?>
 
     <!-- /Testimonials Section -->
@@ -115,63 +117,41 @@
       <div class="container section-title" data-aos="fade-up">
         <span>Section Title</span>
         <h2>Team</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Meet our skilled professionals dedicated to delivering excellence.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
 
-        <div class="row gy-5">
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <div class="pic"><img src="assets/img/team/hasitha.png" class="img-fluid" alt="team" style="height:auto; width:450px"></div>
-              <div class="member-info">
-                <h4>W.H. Eranga</h4>
-                <span>Our Director</span>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+        <div class="row gy-5 d-flex justify-content-between" data-aos="fade-up" data-aos-delay="100">
+          <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="./assets/img/team/hasitha.png" alt="Card image cap">
+              <div class="card-body mt-3">
+                <h5 class="card-title">W.H. Eranga</h5>
+                <a href="https://www.linkedin.com/in/hasithawd/" targer="_blank" class="btn-watch-video"><i class="bi bi-linkedin"></i> See More</a>
               </div>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="pic"><img src="assets/img/team/njith.png" class="img-fluid" alt="" style="height:420px; width:450px"></div>
-              <div class="member-info">
-                <h4>N. Kurakulasooriya</h4>
-                <span>Product Manager</span>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="./assets/img/team/njith.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">N. Kurakulasooriya</h5>
+                <a href="https://fot.rjt.ac.lk/ent-academic-staff/" targer="_blank" class="btn-watch-video"><i class="bi bi-link"></i> See More</a>
               </div>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="member">
-              <div class="pic"><img src="assets/img/team/charith.png" class="img-fluid" alt="" style="height:auto; width:450px"></div>
-              <div class="member-info">
-                <h4>W.C. Madhuranga</h4>
-                <span>CTO</span>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter-x"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+          </div>
+          <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="./assets/img/team/charith.png" alt="Card image cap">
+              <div class="card-body mt-3">
+                <h5 class="card-title">W.C. Madhuranga</h5>
+                <a href="https://www.linkedin.com/in/charitha-maduranga-a29796149/" targer="_blank" class="btn-watch-video"><i class="bi bi-linkedin"></i> See More</a>
               </div>
-            </div>
-          </div><!-- End Team Member -->
-
+          </div>
+          <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="./assets/img/team/dush.png" alt="Card image cap">
+              <div class="card-body mt-3">
+                <h5 class="card-title">D. Lakmini</h5>
+                <a href="https://www.linkedin.com/in/hasithawd/" targer="_blank" class="btn-watch-video"><i class="bi bi-link"></i> See More</a>
+              </div>
+          </div>
         </div>
-
       </div>
 
     </section><!-- /Team Section -->
@@ -183,7 +163,7 @@
       <div class="container section-title" data-aos="fade-up">
         <span>Section Title</span>
         <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Get in touch with us for inquiries, support, or collaborations.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">

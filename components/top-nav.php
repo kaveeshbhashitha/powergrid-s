@@ -1,10 +1,10 @@
 <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-      <a href="index.html" class="logo d-flex align-items-center me-auto">
+      <a href="index.php" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <img src="./assets/img/WhatsApp Image 2025-01-04 at 12.21.20.jpeg" alt=""><h1 class="sitename mt-2">PowerGrid</h1>
+        <img src="./assets/img/logo-pg.jpeg" alt=""><h1 class="sitename mt-2">PowerGrid</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
@@ -13,6 +13,7 @@
           <li><a href="#services">Services</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#team">Team</a></li>
+          <li><a href="#blogs">Blogs</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>

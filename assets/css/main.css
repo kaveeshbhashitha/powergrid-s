@@ -1754,3 +1754,10 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.project-img {
+  width: 100%; /* Makes images responsive */
+  height: 265px; /* Ensures uniform height */
+  object-fit: cover; /* Prevents stretching and maintains aspect ratio */
+  border-radius: 5px; /* Optional: Adds rounded corners for better aesthetics */
+}
