@@ -126,30 +126,42 @@
         <div class="row gy-5 d-flex justify-content-between" data-aos="fade-up" data-aos-delay="100">
           <div class="card" style="width: 18rem;">
               <img class="card-img-top" src="./assets/img/team/hasitha.png" alt="Card image cap">
-              <div class="card-body mt-3">
+              <div class="card-body mt-3 text-center">
                 <h5 class="card-title">W.H. Eranga</h5>
-                <a href="https://www.linkedin.com/in/hasithawd/" targer="_blank" class="btn-watch-video"><i class="bi bi-linkedin"></i> See More</a>
+                <h6>Executive Director</h6>
+                <a href="https://www.linkedin.com/in/hasithawd/" targer="_blank" class="btn-watch-video">
+                  <i class="bi bi-linkedin mx-2"></i> Visit My LinkedIn
+                </a>
               </div>
           </div>
           <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="./assets/img/team/njith.png" alt="Card image cap">
-              <div class="card-body">
+              <img class="card-img-top" src="./assets/img/team/nk.png" alt="Card image cap">
+              <div class="card-body text-center">
                 <h5 class="card-title">N. Kurakulasooriya</h5>
-                <a href="https://fot.rjt.ac.lk/ent-academic-staff/" targer="_blank" class="btn-watch-video"><i class="bi bi-link"></i> See More</a>
+                <h6>Non-Executive Director</h6>
+                <a href="https://www.linkedin.com/in/nayanajith-kurukulasooriya/" targer="_blank" class="btn-watch-video">
+                  <i class="bi bi-linkedin mx-2"></i> Visit My LinkedIn
+                </a>
               </div>
           </div>
           <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="./assets/img/team/charith.png" alt="Card image cap">
-              <div class="card-body mt-3">
+              <img class="card-img-top" src="./assets/img/team/cm.png" alt="Card image cap">
+              <div class="card-body mt-3 text-center">
                 <h5 class="card-title">W.C. Madhuranga</h5>
-                <a href="https://www.linkedin.com/in/charitha-maduranga-a29796149/" targer="_blank" class="btn-watch-video"><i class="bi bi-linkedin"></i> See More</a>
+                <h6>Head of Engineering</h6>
+                <a href="https://www.linkedin.com/in/charitha-maduranga-a29796149/" targer="_blank" class="btn-watch-video">
+                  <i class="bi bi-linkedin mx-2"></i> Visit My LinkedIn
+                </a>
               </div>
           </div>
           <div class="card" style="width: 18rem;">
-              <img class="card-img-top" src="./assets/img/team/dush.png" alt="Card image cap">
-              <div class="card-body mt-3">
-                <h5 class="card-title">D. Lakmini</h5>
-                <a href="https://www.linkedin.com/in/hasithawd/" targer="_blank" class="btn-watch-video"><i class="bi bi-link"></i> See More</a>
+              <img class="card-img-top" src="./assets/img/team/rg.jpg" alt="Card image cap" style="width: 180px; justify-content: center; margin: auto;">
+              <div class="card-body mt-3 text-center">
+                <h5 class="card-title">V. R. K. Jayasanka</h5>
+                <h6>Engineering Technologist</h6>
+                <a href="http://uom.lk/people/mr-vrk-jayasanka" target="_blank" class="btn-watch-video">
+                  <i class="bi bi-browser-edge mx-2"></i> Visit My Profile
+                </a>
               </div>
           </div>
         </div>
