@@ -9,7 +9,10 @@
     <link href="./assets/img/logo-pg.jpeg" rel="icon">
 </head>
 <body>
-
+<?php
+$activePage = 'about';
+include('./components/top-nav-other.php');
+?>
 <section id="hero" class="hero section">
 
     <div class="container">
@@ -18,7 +21,7 @@
             <h1>About PGS</h1>
             <p>We deliver innovative, eco-friendly energy solutions that combine efficiency with sustainability for a greener future.</p>
                 <div class="d-flex">
-                    <a href="./index.php" class="btn-get-started text-decoration-none">Back to Home</a>
+                    <!-- <a href="./index.php" class="btn-get-started text-decoration-none">Back to Home</a> -->
                 </div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="100">
